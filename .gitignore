@@ -6,4 +6,5 @@ dist
 *.local
 playground/*
 !playground/warm/
+!playground/easy
 .playgroundcache
